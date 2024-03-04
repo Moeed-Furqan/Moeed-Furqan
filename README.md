@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Discord clone**
 
-- 🌱 I’m currently learning **frontend using typescript and backend piplines**
+- 🌱 I’m currently learning **frontend using typescript and CD/CI Automation**
 
 - 👯 I’m looking to collaborate on **Product base startup**
 
